@@ -38,5 +38,9 @@ for path in os.listdir(dir_path):
     if os.path.isfile(os.path.join(dir_path, path)):
         count += 1
 
-get_user_ratings_top_anime(count)
+#get_user_ratings_top_anime(count)
+data = get_user_ratings(44042)
+with open('ratings/user_ratings_anime_{}.json'.format(44042), 'w+') as ff:
+    json.dump(data, ff)
+    ff.close()
         

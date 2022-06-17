@@ -1,93 +1,201 @@
 anime_id,name,genre,type,episodes,rating,members
-5114,Fullmetal Alchemist: Brotherhood,"['Action', 'Adventure', 'Drama', 'Fantasy']",TV,64,9.14,2891843
-28977,Gintama°,"['Action', 'Comedy', 'Sci-Fi']",TV,51,9.08,536640
-9253,Steins;Gate,"['Drama', 'Sci-Fi', 'Suspense']",TV,24,9.08,2244592
-38524,Shingeki no Kyojin Season 3 Part 2,"['Action', 'Drama']",TV,10,9.07,1845960
-9969,Gintama',"['Action', 'Comedy', 'Sci-Fi']",TV,51,9.05,473076
-39486,Gintama: The Final,"['Action', 'Comedy', 'Drama', 'Sci-Fi']",Movie,1,9.05,103679
-11061,Hunter x Hunter (2011),"['Action', 'Adventure', 'Fantasy']",TV,148,9.05,2380780
-15417,Gintama': Enchousen,"['Action', 'Comedy', 'Sci-Fi']",TV,13,9.04,282162
-42938,Fruits Basket: The Final,"['Drama', 'Romance', 'Supernatural']",TV,13,9.04,350319
-820,Ginga Eiyuu Densetsu,"['Drama', 'Sci-Fi']",OVA,110,9.03,280508
-50265,Spy x Family,"['Action', 'Comedy']",TV,12,9.03,764496
-34096,Gintama.,"['Action', 'Comedy', 'Sci-Fi']",TV,12,8.99,269002
-35180,3-gatsu no Lion 2nd Season,"['Drama', 'Slice of Life']",TV,22,8.96,352722
-43608,Kaguya-sama wa Kokurasetai: Ultra Romantic,"['Comedy', 'Suspense']",TV,13,8.96,487057
-918,Gintama,"['Action', 'Comedy', 'Sci-Fi']",TV,201,8.95,945581
-28851,Koe no Katachi,['Drama'],Movie,1,8.95,1971415
-37987,Violet Evergarden Movie,"['Drama', 'Fantasy', 'Slice of Life']",Movie,1,8.95,441120
-4181,Clannad: After Story,"['Drama', 'Romance', 'Supernatural']",TV,24,8.94,1081613
-15335,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,"['Action', 'Comedy', 'Sci-Fi']",Movie,1,8.93,210576
-2904,Code Geass: Hangyaku no Lelouch R2,"['Action', 'Drama', 'Sci-Fi']",TV,25,8.91,1570802
-35247,Owarimonogatari 2nd Season,"['Comedy', 'Mystery', 'Supernatural']",TV,7,8.9,349356
-37491,Gintama.: Shirogane no Tamashii-hen - Kouhan-sen,"['Action', 'Comedy', 'Sci-Fi']",TV,14,8.88,164315
-47778,Kimetsu no Yaiba: Yuukaku-hen,"['Action', 'Fantasy']",TV,11,8.87,888500
-32281,Kimi no Na wa.,"['Drama', 'Supernatural']",Movie,1,8.87,2362215
-48583,Shingeki no Kyojin: The Final Season Part 2,"['Action', 'Drama']",TV,12,8.85,867819
-40028,Shingeki no Kyojin: The Final Season,"['Action', 'Drama']",TV,16,8.84,1595324
-19,Monster,"['Drama', 'Mystery', 'Suspense']",TV,74,8.83,856440
-50160,Kingdom 4th Season,['Action'],TV,26,8.82,26893
-36838,Gintama.: Shirogane no Tamashii-hen,"['Action', 'Comedy', 'Sci-Fi']",TV,12,8.81,178045
-40682,Kingdom 3rd Season,['Action'],TV,26,8.8,70179
-37510,Mob Psycho 100 II,"['Action', 'Comedy', 'Supernatural']",TV,13,8.81,1238666
-31758,Kizumonogatari III: Reiketsu-hen,"['Action', 'Mystery', 'Supernatural']",Movie,1,8.8,403923
-32935,Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,['Sports'],TV,10,8.79,1037559
-44074,Shiguang Dailiren,"['Drama', 'Supernatural']",ONA,11,8.79,212453
-17074,Monogatari Series: Second Season,"['Comedy', 'Mystery', 'Romance', 'Supernatural']",TV,26,8.78,611141
-199,Sen to Chihiro no Kamikakushi,"['Adventure', 'Award Winning', 'Supernatural']",Movie,1,8.78,1613774
-1,Cowboy Bebop,"['Action', 'Sci-Fi']",TV,26,8.76,1618521
-33095,Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen,['Drama'],TV,12,8.75,169725
-24701,Mushishi Zoku Shou 2nd Season,"['Adventure', 'Fantasy', 'Mystery', 'Slice of Life', 'Supernatural']",TV,10,8.74,237129
-45576,Mushoku Tensei: Isekai Ittara Honki Dasu Part 2,"['Drama', 'Fantasy', 'Ecchi']",TV,12,8.74,594652
-46102,Odd Taxi,['Mystery'],TV,13,8.74,309977
-263,Hajime no Ippo,['Sports'],TV,75,8.74,482878
-37521,Vinland Saga,"['Action', 'Adventure', 'Drama']",TV,24,8.73,1101360
-21939,Mushishi Zoku Shou,"['Adventure', 'Fantasy', 'Mystery', 'Slice of Life', 'Supernatural']",TV,10,8.71,269946
-44,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,"['Action', 'Drama', 'Romance']",OVA,4,8.71,257565
-48569,86 Part 2,"['Action', 'Drama', 'Sci-Fi']",TV,12,8.71,310262
-2921,Ashita no Joe 2,"['Action', 'Drama', 'Slice of Life', 'Sports']",TV,47,8.71,41852
-33050,Fate/stay night Movie: Heaven's Feel - III. Spring Song,"['Action', 'Fantasy', 'Supernatural']",Movie,1,8.71,275003
-1575,Code Geass: Hangyaku no Lelouch,"['Action', 'Drama', 'Sci-Fi']",TV,25,8.7,1992141
-245,Great Teacher Onizuka,"['Comedy', 'Drama']",TV,43,8.69,726201
-40434,Mo Dao Zu Shi: Wanjie Pian,"['Action', 'Drama', 'Supernatural']",ONA,12,8.69,56816
-164,Mononoke Hime,"['Action', 'Adventure', 'Fantasy']",Movie,1,8.68,1097558
-40748,Jujutsu Kaisen (TV),"['Action', 'Fantasy']",TV,24,8.68,1871509
-34599,Made in Abyss,"['Adventure', 'Drama', 'Fantasy', 'Mystery', 'Sci-Fi']",TV,13,8.68,1137368
-36862,Made in Abyss Movie 3: Fukaki Tamashii no Reimei,"['Adventure', 'Drama', 'Fantasy', 'Mystery', 'Sci-Fi']",Movie,1,8.68,326750
-457,Mushishi,"['Adventure', 'Fantasy', 'Mystery', 'Slice of Life', 'Supernatural']",TV,26,8.67,741156
-33352,Violet Evergarden,"['Drama', 'Fantasy', 'Slice of Life']",TV,13,8.67,1508625
-23273,Shigatsu wa Kimi no Uso,"['Drama', 'Romance']",TV,22,8.66,1939490
-5258,Hajime no Ippo: New Challenger,['Sports'],TV,26,8.66,242900
-431,Howl no Ugoku Shiro,"['Adventure', 'Drama', 'Fantasy', 'Romance']",Movie,1,8.66,1131015
-40456,Kimetsu no Yaiba Movie: Mugen Ressha-hen,"['Action', 'Fantasy']",Movie,1,8.66,1153310
-28891,Haikyuu!! Second Season,['Sports'],TV,25,8.65,1242040
-40591,Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen,['Comedy'],TV,12,8.65,1081876
-11665,Natsume Yuujinchou Shi,"['Drama', 'Slice of Life', 'Supernatural']",TV,13,8.65,223107
-21,One Piece,"['Action', 'Adventure', 'Fantasy']",TV,,8.65,1886944
-3786,Evangelion: 3.0+1.0 Thrice Upon a Time,"['Action', 'Drama', 'Sci-Fi']",Movie,1,8.64,293401
-34591,Natsume Yuujinchou Roku,"['Drama', 'Slice of Life', 'Supernatural']",TV,11,8.63,164733
-40834,Ousama Ranking,"['Adventure', 'Fantasy']",TV,23,8.63,417795
-2001,Tengen Toppa Gurren Lagann,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",TV,27,8.63,1448465
-22135,Ping Pong the Animation,"['Drama', 'Sports']",TV,11,8.62,342935
-38329,Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai,"['Drama', 'Romance', 'Supernatural']",Movie,1,8.62,586187
-35760,Shingeki no Kyojin Season 3,"['Action', 'Drama']",TV,12,8.62,1966391
-7311,Suzumiya Haruhi no Shoushitsu,"['Mystery', 'Sci-Fi', 'Supernatural']",Movie,1,8.62,560860
-1535,Death Note,"['Supernatural', 'Suspense']",TV,37,8.62,3414445
-49310,Fruits Basket: Prelude,"['Drama', 'Romance']",Movie,1,8.6,56866
-28957,Mushishi Zoku Shou: Suzu no Shizuku,"['Adventure', 'Fantasy', 'Mystery', 'Slice of Life', 'Supernatural']",Movie,1,8.6,115050
-12355,Ookami Kodomo no Ame to Yuki,"['Fantasy', 'Slice of Life']",Movie,1,8.59,736752
-19647,Hajime no Ippo: Rising,['Sports'],TV,25,8.59,216069
-31757,Kizumonogatari II: Nekketsu-hen,"['Action', 'Mystery', 'Supernatural']",Movie,1,8.59,393261
-37991,JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,"['Action', 'Adventure']",TV,39,8.58,841808
-32983,Natsume Yuujinchou Go,"['Drama', 'Slice of Life', 'Supernatural']",TV,11,8.58,164018
-10379,Natsume Yuujinchou San,"['Drama', 'Slice of Life', 'Supernatural']",TV,13,8.58,230210
-28735,Shouwa Genroku Rakugo Shinjuu,['Drama'],TV,13,8.58,265814
-4565,Tengen Toppa Gurren Lagann Movie 2: Lagann-hen,"['Action', 'Sci-Fi']",Movie,1,8.57,194579
-7785,Yojouhan Shinwa Taikei,"['Comedy', 'Mystery', 'Romance']",TV,11,8.57,392529
-40417,Fruits Basket 2nd Season,"['Drama', 'Romance', 'Supernatural']",TV,25,8.57,401817
-36098,Kimi no Suizou wo Tabetai,"['Drama', 'Romance', 'Slice of Life']",Movie,1,8.57,770934
-11741,Fate/Zero 2nd Season,"['Action', 'Fantasy', 'Supernatural']",TV,12,8.57,1004921
-12365,Bakuman. 3rd Season,"['Comedy', 'Drama', 'Romance']",TV,25,8.55,306494
-38000,Kimetsu no Yaiba,"['Action', 'Fantasy']",TV,26,8.55,2443931
-21329,Mushishi: Hihamukage,"['Adventure', 'Fantasy', 'Mystery', 'Slice of Life', 'Supernatural']",Special,1,8.55,124916
-32,Neon Genesis Evangelion: The End of Evangelion,"['Avant Garde', 'Drama', 'Sci-Fi']",Movie,1,8.55,790275
+5114,b'Fullmetal Alchemist: Brotherhood',"['Action', 'Adventure', 'Drama', 'Fantasy']",TV,64,9.14,2893493
+28977,b'Gintama\xc2\xb0',"['Action', 'Comedy', 'Sci-Fi']",TV,51,9.08,536990
+9253,b'Steins;Gate',"['Drama', 'Sci-Fi', 'Suspense']",TV,24,9.08,2245646
+38524,b'Shingeki no Kyojin Season 3 Part 2',"['Action', 'Drama']",TV,10,9.07,1847582
+9969,"b""Gintama'""","['Action', 'Comedy', 'Sci-Fi']",TV,51,9.05,473413
+39486,b'Gintama: The Final',"['Action', 'Comedy', 'Drama', 'Sci-Fi']",Movie,1,9.05,103872
+11061,b'Hunter x Hunter (2011)',"['Action', 'Adventure', 'Fantasy']",TV,148,9.05,2382619
+15417,"b""Gintama': Enchousen""","['Action', 'Comedy', 'Sci-Fi']",TV,13,9.04,282329
+42938,b'Fruits Basket: The Final',"['Drama', 'Romance', 'Supernatural']",TV,13,9.03,350828
+820,b'Ginga Eiyuu Densetsu',"['Drama', 'Sci-Fi']",OVA,110,9.03,280661
+50265,b'Spy x Family',"['Action', 'Comedy']",TV,12,9.02,770804
+34096,b'Gintama.',"['Action', 'Comedy', 'Sci-Fi']",TV,12,8.99,269173
+35180,b'3-gatsu no Lion 2nd Season',"['Drama', 'Slice of Life']",TV,22,8.96,352911
+43608,b'Kaguya-sama wa Kokurasetai: Ultra Romantic',"['Comedy', 'Suspense']",TV,13,8.96,489257
+918,b'Gintama',"['Action', 'Comedy', 'Sci-Fi']",TV,201,8.95,946035
+28851,b'Koe no Katachi',['Drama'],Movie,1,8.95,1972749
+37987,b'Violet Evergarden Movie',"['Drama', 'Fantasy', 'Slice of Life']",Movie,1,8.95,441843
+4181,b'Clannad: After Story',"['Drama', 'Romance', 'Supernatural']",TV,24,8.94,1081977
+15335,b'Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare',"['Action', 'Comedy', 'Sci-Fi']",Movie,1,8.93,210630
+2904,b'Code Geass: Hangyaku no Lelouch R2',"['Action', 'Drama', 'Sci-Fi']",TV,25,8.91,1571598
+35247,b'Owarimonogatari 2nd Season',"['Comedy', 'Mystery', 'Supernatural']",TV,7,8.9,349453
+37491,b'Gintama.: Shirogane no Tamashii-hen - Kouhan-sen',"['Action', 'Comedy', 'Sci-Fi']",TV,14,8.88,164426
+47778,b'Kimetsu no Yaiba: Yuukaku-hen',"['Action', 'Fantasy']",TV,11,8.87,890861
+32281,b'Kimi no Na wa.',"['Drama', 'Supernatural']",Movie,1,8.87,2363551
+48583,b'Shingeki no Kyojin: The Final Season Part 2',"['Action', 'Drama']",TV,12,8.85,869585
+40028,b'Shingeki no Kyojin: The Final Season',"['Action', 'Drama']",TV,16,8.84,1596872
+19,b'Monster',"['Drama', 'Mystery', 'Suspense']",TV,74,8.83,857171
+50160,b'Kingdom 4th Season',['Action'],TV,26,8.82,27139
+36838,b'Gintama.: Shirogane no Tamashii-hen',"['Action', 'Comedy', 'Sci-Fi']",TV,12,8.81,178182
+40682,b'Kingdom 3rd Season',['Action'],TV,26,8.81,70336
+37510,b'Mob Psycho 100 II',"['Action', 'Comedy', 'Supernatural']",TV,13,8.81,1239699
+31758,b'Kizumonogatari III: Reiketsu-hen',"['Action', 'Mystery', 'Supernatural']",Movie,1,8.8,404030
+32935,b'Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou',['Sports'],TV,10,8.79,1038178
+44074,b'Shiguang Dailiren',"['Drama', 'Supernatural']",ONA,11,8.79,212954
+17074,b'Monogatari Series: Second Season',"['Comedy', 'Mystery', 'Romance', 'Supernatural']",TV,26,8.78,611400
+199,b'Sen to Chihiro no Kamikakushi',"['Adventure', 'Award Winning', 'Supernatural']",Movie,1,8.78,1614664
+1,b'Cowboy Bebop',"['Action', 'Sci-Fi']",TV,26,8.76,1619460
+33095,b'Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen',['Drama'],TV,12,8.75,169805
+24701,b'Mushishi Zoku Shou 2nd Season',"['Adventure', 'Fantasy', 'Mystery', 'Slice of Life', 'Supernatural']",TV,10,8.74,237189
+45576,b'Mushoku Tensei: Isekai Ittara Honki Dasu Part 2',"['Drama', 'Fantasy', 'Ecchi']",TV,12,8.74,595831
+46102,b'Odd Taxi',['Mystery'],TV,13,8.74,310510
+263,b'Hajime no Ippo',['Sports'],TV,75,8.74,483215
+37521,b'Vinland Saga',"['Action', 'Adventure', 'Drama']",TV,24,8.73,1102628
+21939,b'Mushishi Zoku Shou',"['Adventure', 'Fantasy', 'Mystery', 'Slice of Life', 'Supernatural']",TV,10,8.71,270092
+44,b'Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen',"['Action', 'Drama', 'Romance']",OVA,4,8.71,257642
+48569,b'86 Part 2',"['Action', 'Drama', 'Sci-Fi']",TV,12,8.71,311015
+2921,b'Ashita no Joe 2',"['Action', 'Drama', 'Slice of Life', 'Sports']",TV,47,8.71,41889
+33050,"b""Fate/stay night Movie: Heaven's Feel - III. Spring Song""","['Action', 'Fantasy', 'Supernatural']",Movie,1,8.71,275292
+1575,b'Code Geass: Hangyaku no Lelouch',"['Action', 'Drama', 'Sci-Fi']",TV,25,8.7,1993108
+245,b'Great Teacher Onizuka',"['Comedy', 'Drama']",TV,43,8.69,726625
+40434,b'Mo Dao Zu Shi: Wanjie Pian',"['Action', 'Drama', 'Supernatural']",ONA,12,8.69,56915
+164,b'Mononoke Hime',"['Action', 'Adventure', 'Fantasy']",Movie,1,8.68,1098200
+40748,b'Jujutsu Kaisen (TV)',"['Action', 'Fantasy']",TV,24,8.68,1873802
+34599,b'Made in Abyss',"['Adventure', 'Drama', 'Fantasy', 'Mystery', 'Sci-Fi']",TV,13,8.68,1137765
+36862,b'Made in Abyss Movie 3: Fukaki Tamashii no Reimei',"['Adventure', 'Drama', 'Fantasy', 'Mystery', 'Sci-Fi']",Movie,1,8.68,327173
+457,b'Mushishi',"['Adventure', 'Fantasy', 'Mystery', 'Slice of Life', 'Supernatural']",TV,26,8.67,741528
+33352,b'Violet Evergarden',"['Drama', 'Fantasy', 'Slice of Life']",TV,13,8.67,1509781
+23273,b'Shigatsu wa Kimi no Uso',"['Drama', 'Romance']",TV,22,8.66,1940562
+5258,b'Hajime no Ippo: New Challenger',['Sports'],TV,26,8.66,243036
+431,b'Howl no Ugoku Shiro',"['Adventure', 'Drama', 'Fantasy', 'Romance']",Movie,1,8.66,1131751
+40456,b'Kimetsu no Yaiba Movie: Mugen Ressha-hen',"['Action', 'Fantasy']",Movie,1,8.66,1154966
+28891,b'Haikyuu!! Second Season',['Sports'],TV,25,8.65,1242771
+40591,b'Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen',['Comedy'],TV,12,8.65,1082990
+11665,b'Natsume Yuujinchou Shi',"['Drama', 'Slice of Life', 'Supernatural']",TV,13,8.65,223179
+21,b'One Piece',"['Action', 'Adventure', 'Fantasy']",TV,,8.65,1888661
+3786,b'Evangelion: 3.0+1.0 Thrice Upon a Time',"['Action', 'Drama', 'Sci-Fi']",Movie,1,8.64,293720
+34591,b'Natsume Yuujinchou Roku',"['Drama', 'Slice of Life', 'Supernatural']",TV,11,8.63,164814
+40834,b'Ousama Ranking',"['Adventure', 'Fantasy']",TV,23,8.63,418889
+2001,b'Tengen Toppa Gurren Lagann',"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",TV,27,8.63,1449146
+22135,b'Ping Pong the Animation',"['Drama', 'Sports']",TV,11,8.62,343089
+38329,b'Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai',"['Drama', 'Romance', 'Supernatural']",Movie,1,8.62,586663
+35760,b'Shingeki no Kyojin Season 3',"['Action', 'Drama']",TV,12,8.62,1968058
+7311,b'Suzumiya Haruhi no Shoushitsu',"['Mystery', 'Sci-Fi', 'Supernatural']",Movie,1,8.62,560955
+1535,b'Death Note',"['Supernatural', 'Suspense']",TV,37,8.62,3416309
+49310,b'Fruits Basket: Prelude',"['Drama', 'Romance']",Movie,1,8.6,57131
+28957,b'Mushishi Zoku Shou: Suzu no Shizuku',"['Adventure', 'Fantasy', 'Mystery', 'Slice of Life', 'Supernatural']",Movie,1,8.6,115108
+12355,b'Ookami Kodomo no Ame to Yuki',"['Fantasy', 'Slice of Life']",Movie,1,8.59,737150
+19647,b'Hajime no Ippo: Rising',['Sports'],TV,25,8.59,216204
+31757,b'Kizumonogatari II: Nekketsu-hen',"['Action', 'Mystery', 'Supernatural']",Movie,1,8.59,393450
+37991,b'JoJo no Kimyou na Bouken Part 5: Ougon no Kaze',"['Action', 'Adventure']",TV,39,8.58,842641
+32983,b'Natsume Yuujinchou Go',"['Drama', 'Slice of Life', 'Supernatural']",TV,11,8.58,164064
+10379,b'Natsume Yuujinchou San',"['Drama', 'Slice of Life', 'Supernatural']",TV,13,8.58,230293
+28735,b'Shouwa Genroku Rakugo Shinjuu',['Drama'],TV,13,8.58,265936
+4565,b'Tengen Toppa Gurren Lagann Movie 2: Lagann-hen',"['Action', 'Sci-Fi']",Movie,1,8.57,194646
+7785,b'Yojouhan Shinwa Taikei',"['Comedy', 'Mystery', 'Romance']",TV,11,8.57,392792
+40417,b'Fruits Basket 2nd Season',"['Drama', 'Romance', 'Supernatural']",TV,25,8.57,402232
+36098,b'Kimi no Suizou wo Tabetai',"['Drama', 'Romance', 'Slice of Life']",Movie,1,8.57,771656
+11741,b'Fate/Zero 2nd Season',"['Action', 'Fantasy', 'Supernatural']",TV,12,8.56,1005403
+12365,b'Bakuman. 3rd Season',"['Comedy', 'Drama', 'Romance']",TV,25,8.55,306593
+38000,b'Kimetsu no Yaiba',"['Action', 'Fantasy']",TV,26,8.55,2446133
+21329,b'Mushishi: Hihamukage',"['Adventure', 'Fantasy', 'Mystery', 'Slice of Life', 'Supernatural']",Special,1,8.55,124916
+32,b'Neon Genesis Evangelion: The End of Evangelion',"['Avant Garde', 'Drama', 'Sci-Fi']",Movie,1,8.55,790892
+40664,b'Shoujo\xe2\x98\x86Kageki Revue Starlight Movie',[],Movie,1,8.56,10378
+5300,b'Zoku Natsume Yuujinchou',"['Drama', 'Slice of Life', 'Supernatural']",TV,13,8.55,227359
+170,b'Slam Dunk',['Sports'],TV,101,8.54,256039
+35839,b'Sora yori mo Tooi Basho',"['Adventure', 'Comedy', 'Drama']",TV,13,8.54,439571
+37779,b'Yakusoku no Neverland',"['Mystery', 'Sci-Fi', 'Suspense']",TV,12,8.54,1692037
+40776,b'Haikyuu!! To the Top Part 2',['Sports'],TV,12,8.54,655639
+4282,b'Kara no Kyoukai Movie 5: Mujun Rasen',"['Action', 'Drama', 'Mystery', 'Romance', 'Supernatural', 'Suspense']",Movie,1,8.54,219254
+33,b'Kenpuu Denki Berserk',"['Action', 'Adventure', 'Drama', 'Fantasy', 'Horror', 'Supernatural']",TV,25,8.54,540873
+33049,"b""Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly""","['Action', 'Fantasy', 'Supernatural']",Movie,1,8.53,323574
+35843,b'Gintama.: Porori-hen',"['Action', 'Comedy', 'Sci-Fi']",TV,13,8.53,173756
+48561,b'Jujutsu Kaisen 0 Movie',"['Action', 'Fantasy']",Movie,1,8.52,413439
+16498,b'Shingeki no Kyojin',"['Action', 'Drama']",TV,25,8.53,3433406
+38474,b'Yuru Camp\xe2\x96\xb3 Season 2',['Slice of Life'],TV,13,8.53,180479
+877,b'Nana',"['Drama', 'Romance', 'Slice of Life']",TV,47,8.52,550464
+437,b'Perfect Blue',"['Avant Garde', 'Drama', 'Horror']",Movie,1,8.52,568132
+30484,b'Steins;Gate 0',"['Drama', 'Sci-Fi', 'Suspense']",TV,23,8.52,762216
+7472,b'Gintama Movie 1: Shinyaku Benizakura-hen',"['Action', 'Comedy', 'Sci-Fi']",Movie,1,8.52,145877
+801,b'Koukaku Kidoutai: Stand Alone Complex 2nd GIG',"['Action', 'Mystery', 'Sci-Fi']",TV,26,8.52,211243
+30654,b'Ansatsu Kyoushitsu 2nd Season',"['Action', 'Comedy']",TV,25,8.51,1236753
+30276,b'One Punch Man',"['Action', 'Comedy']",TV,12,8.51,2803439
+12431,b'Uchuu Kyoudai',"['Comedy', 'Sci-Fi', 'Slice of Life']",TV,99,8.5,175834
+205,b'Samurai Champloo',"['Action', 'Adventure', 'Comedy']",TV,26,8.5,1103526
+25777,b'Shingeki no Kyojin Season 2',"['Action', 'Drama']",TV,12,8.5,2323950
+3297,b'Aria the Origination',"['Fantasy', 'Sci-Fi', 'Slice of Life']",TV,13,8.5,115524
+36649,b'Banana Fish',"['Action', 'Adventure', 'Drama']",TV,24,8.5,715223
+578,b'Hotaru no Haka',['Drama'],Movie,1,8.5,578388
+31933,b'JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai',"['Action', 'Adventure', 'Comedy', 'Drama', 'Supernatural']",TV,39,8.5,937311
+49721,b'Karakai Jouzu no Takagi-san 3',['Comedy'],TV,12,8.5,133678
+6114,b'Rainbow: Nisha Rokubou no Shichinin',"['Drama', 'Suspense']",TV,26,8.49,359229
+44070,b'Tian Guan Ci Fu Special',"['Drama', 'Supernatural']",ONA,1,8.49,30973
+32182,b'Mob Psycho 100',"['Action', 'Comedy', 'Supernatural']",TV,12,8.48,1734561
+42203,b'Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2',"['Drama', 'Fantasy', 'Suspense']",TV,12,8.48,703100
+37379,b'Chihayafuru 3',"['Drama', 'Slice of Life', 'Sports']",TV,24,8.48,119850
+44087,b'Gintama: The Semi-Final',"['Action', 'Comedy']",Special,2,8.47,56035
+38040,b'Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu',"['Adventure', 'Comedy', 'Fantasy']",Movie,1,8.47,640815
+37208,b'Mo Dao Zu Shi',"['Action', 'Adventure', 'Fantasy', 'Mystery', 'Supernatural']",ONA,15,8.47,193308
+11981,b'Mahou Shoujo Madoka\xe2\x98\x85Magica Movie 3: Hangyaku no Monogatari',"['Drama', 'Mystery', 'Suspense']",Movie,1,8.46,338729
+10165,b'Nichijou',['Comedy'],TV,26,8.46,789095
+31181,b'Owarimonogatari',"['Comedy', 'Mystery', 'Supernatural']",TV,12,8.46,435114
+11577,b'Steins;Gate Movie: Fuka Ryouiki no D\xc3\xa9j\xc3\xa0 vu',"['Drama', 'Sci-Fi']",Movie,1,8.46,535774
+36999,b'Zoku Owarimonogatari',"['Comedy', 'Mystery', 'Supernatural']",Movie,6,8.46,197837
+38450,b'Mo Dao Zu Shi: Xian Yun Pian',"['Action', 'Fantasy', 'Mystery', 'Supernatural']",ONA,8,8.45,85190
+36885,b'Saenai Heroine no Sodatekata Fine',"['Comedy', 'Romance', 'Ecchi']",Movie,1,8.45,151179
+46095,"b""Vivy: Fluorite Eye's Song""","['Action', 'Sci-Fi', 'Suspense']",TV,13,8.45,423150
+45556,b'Wu Liuqi Zhi Xuanwu Guo Pian',"['Action', 'Adventure', 'Comedy', 'Drama', 'Mystery']",ONA,10,8.45,36507
+392,b'Yuu\xe2\x98\x86Yuu\xe2\x98\x86Hakusho',"['Action', 'Comedy', 'Supernatural']",TV,112,8.45,599625
+40059,b'Golden Kamuy 3rd Season',"['Action', 'Adventure']",TV,12,8.45,126964
+20583,b'Haikyuu!!',['Sports'],TV,25,8.45,1699870
+40787,b'Josee to Tora to Sakana-tachi',"['Drama', 'Romance', 'Slice of Life']",Movie,1,8.45,299023
+21899,b'Gintama: Yorinuki Gintama-san on Theater 2D',"['Action', 'Comedy', 'Sci-Fi']",Movie,2,8.44,39400
+26055,b'JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season',"['Action', 'Adventure', 'Drama', 'Supernatural']",TV,24,8.44,934895
+24687,b'Mushishi Zoku Shou: Odoro no Michi',"['Adventure', 'Fantasy', 'Mystery', 'Slice of Life', 'Supernatural']",Special,1,8.44,90739
+34612,b'Saiki Kusuo no \xce\xa8-nan 2',"['Comedy', 'Supernatural']",TV,24,8.44,540369
+2246,b'Mononoke',"['Fantasy', 'Horror', 'Mystery', 'Supernatural']",TV,12,8.43,278072
+33255,b'Saiki Kusuo no \xce\xa8-nan',"['Comedy', 'Supernatural']",TV,120,8.43,921131
+37105,b'Grand Blue',['Comedy'],TV,12,8.43,642121
+38889,b'Kono Oto Tomare! Part 2',"['Drama', 'Romance']",TV,13,8.43,138873
+467,b'Koukaku Kidoutai: Stand Alone Complex',"['Action', 'Sci-Fi']",TV,26,8.43,366212
+5028,b'Major S5',"['Comedy', 'Drama', 'Romance', 'Sports']",TV,25,8.42,65573
+36538,b'Natsume Yuujinchou Movie: Utsusemi ni Musubu',"['Drama', 'Slice of Life', 'Supernatural']",Movie,1,8.41,60590
+48653,b'Yoru ni Kakeru',[],Music,1,8.42,13231
+35851,b'Sayonara no Asa ni Yakusoku no Hana wo Kazarou',"['Drama', 'Fantasy']",Movie,1,8.41,359131
+25781,b'Shingeki no Kyojin: Kuinaki Sentaku',['Action'],OVA,2,8.41,448392
+39741,b'Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou',"['Drama', 'Fantasy', 'Slice of Life']",Movie,1,8.41,336278
+5205,b'Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go)',"['Action', 'Mystery', 'Romance', 'Supernatural', 'Suspense']",Movie,1,8.41,190868
+14397,b'Chihayafuru 2',"['Drama', 'Slice of Life', 'Sports']",TV,25,8.4,214570
+5941,b'Cross Game',"['Drama', 'Romance', 'Sports']",TV,50,8.4,114861
+32366,b'Gintama\xc2\xb0: Aizome Kaori-hen',['Comedy'],OVA,2,8.4,75135
+35557,b'Houseki no Kuni (TV)',"['Action', 'Drama', 'Fantasy', 'Mystery']",TV,12,8.4,391669
+136,b'Hunter x Hunter',"['Action', 'Adventure', 'Fantasy']",TV,62,8.4,522989
+37999,b'Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen',['Comedy'],TV,12,8.4,1425722
+37965,b'Kaze ga Tsuyoku Fuiteiru',"['Drama', 'Sports']",TV,23,8.4,262000
+36275,b'Natsume Yuujinchou Roku Specials',"['Drama', 'Slice of Life', 'Supernatural']",Special,2,8.4,40382
+39808,b'Non Non Biyori Nonstop',['Slice of Life'],TV,12,8.4,102650
+39551,b'Tensei shitara Slime Datta Ken 2nd Season',"['Action', 'Adventure', 'Comedy', 'Fantasy']",TV,12,8.4,736901
+40730,b'Tian Guan Ci Fu',"['Action', 'Adventure', 'Drama', 'Supernatural']",ONA,11,8.39,95535
+31646,b'3-gatsu no Lion',"['Drama', 'Slice of Life']",TV,22,8.39,606753
+22789,b'Barakamon',['Slice of Life'],TV,12,8.39,599514
+41025,b'Fumetsu no Anata e',"['Adventure', 'Drama', 'Supernatural']",TV,20,8.39,682246
+49926,b'Kimetsu no Yaiba: Mugen Ressha-hen',"['Action', 'Fantasy']",TV,7,8.39,434903
+2251,b'Baccano!',"['Action', 'Comedy', 'Mystery', 'Supernatural']",TV,13,8.38,831409
+5,b'Cowboy Bebop: Tengoku no Tobira',"['Action', 'Sci-Fi']",Movie,1,8.38,334544
+48661,b'JoJo no Kimyou na Bouken Part 6: Stone Ocean',"['Action', 'Adventure']",ONA,12,8.38,339085
+30709,b'Kamisama Hajimemashita: Kako-hen',"['Comedy', 'Fantasy', 'Romance', 'Supernatural']",OVA,4,8.38,146055
+9260,b'Kizumonogatari I: Tekketsu-hen',[],Movie,1,8.38,470424
+50380,b'Paripi Koumei',[],TV,12,8.38,150645
+47194,b'Summertime Render',"['Mystery', 'Supernatural', 'Suspense']",TV,25,8.38,186094
+10162,b'Usagi Drop',['Slice of Life'],TV,11,8.38,453860
+39547,b'Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan',"['Comedy', 'Romance']",TV,12,8.38,605302
+11979,b'Mahou Shoujo Madoka\xe2\x98\x85Magica Movie 2: Eien no Monogatari',"['Drama', 'Suspense']",Movie,1,8.37,185553
+39535,b'Mushoku Tensei: Isekai Ittara Honki Dasu',"['Drama', 'Fantasy', 'Ecchi']",TV,11,8.37,942781
+39587,b'Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season',"['Drama', 'Fantasy', 'Suspense']",TV,13,8.37,934766
+48736,b'Sono Bisque Doll wa Koi wo Suru',"['Romance', 'Slice of Life']",TV,12,8.37,683842
+572,b'Kaze no Tani no Nausica\xc3\xa4',"['Adventure', 'Fantasy']",Movie,1,8.37,330414
+39247,b'Kobayashi-san Chi no Maid Dragon S',"['Fantasy', 'Slice of Life']",TV,12,8.37,446248
+10030,b'Bakuman. 2nd Season',"['Comedy', 'Drama', 'Romance']",TV,25,8.36,328450
+38883,b'Haikyuu!! To the Top',['Sports'],TV,13,8.36,774529
+777,b'Hellsing Ultimate',"['Action', 'Horror', 'Supernatural']",OVA,10,8.36,820349
+44042,b'Holo no Graffiti',['Comedy'],ONA,,8.36,45750
+9756,b'Mahou Shoujo Madoka\xe2\x98\x85Magica',"['Drama', 'Suspense']",TV,12,8.36,1154604
+13601,b'Psycho-Pass',"['Action', 'Sci-Fi', 'Suspense']",TV,22,8.35,1466407
+6945,b'Gintama: Shiroyasha Koutan',"['Action', 'Comedy', 'Sci-Fi']",Special,1,8.35,63201
+39533,b'Given',"['Boys Love', 'Drama', 'Romance', 'Slice of Life']",TV,11,8.35,469017
+9617,b'K-On! Movie',"['Comedy', 'Slice of Life']",Movie,1,8.35,294502
+17389,b'Kingdom 2nd Season',['Action'],TV,39,8.35,103013
+22535,b'Kiseijuu: Sei no Kakuritsu',"['Action', 'Horror', 'Sci-Fi']",TV,24,8.35,1636938
+49909,b'Kotarou wa Hitorigurashi',"['Comedy', 'Slice of Life']",ONA,10,8.34,76773
+37515,b'Made in Abyss Movie 2: Hourou Suru Tasogare',"['Adventure', 'Drama', 'Fantasy', 'Mystery', 'Sci-Fi']",Movie,1,8.35,94758

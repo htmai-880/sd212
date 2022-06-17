@@ -15,5 +15,5 @@ def file_count(dir_path = r'./ratings'):
 limit = int(argv[1])
 print("Limit: ", limit)
 
-while file_count() < limit:
+while file_count() <= limit:
     subprocess.call("python userrating.py")
